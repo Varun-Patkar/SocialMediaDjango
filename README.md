@@ -1,4 +1,4 @@
-# SocialMediaDjango
+# CodeNShare (Social Media Site for Coders)
 
 Python Mini Project for Sem 4 INFT-B. 
 
@@ -7,14 +7,18 @@ Group Members :
 - Vedant Pawar
 - Tanish Parmar
 
-# To do
+## To do
 
 - Private Chats
 
-# Implemented
+## Implemented
 
 - Home Page(Shows Login Register if not logged in)
 - Login and Register Page
 - Feed(You and your friend's posts)
 - Profile for each user(details and your posts)
 - Can Upload Code in multiple languages and run it and edit it(using Hackerearth API)
+
+## Deployment
+
+[CodeNShare Deployment](https://social-media-site-django.herokuapp.com/)
